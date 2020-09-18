@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there :wave:
+- Physicist interested in Python, Julia, C++, Fortran, Go, Rust.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvlobato&layout=compact&langs_count=20)](https://github.com/rvlobato/github-readme-stats)
+
+
 
 <!--
 **rvlobato/rvlobato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
