@@ -1,5 +1,9 @@
 ### Hi there :wave:
-- Physicist interested in Python, Julia, C++, Fortran, Go, Rust.
+- Physicist interested in Nuclear and Relativistic Astrophysics, Gravitation and Cosmology; Data Science (Data analysis, Information retrieval, Supervised learning, Unsupervised learning, Data visualization, Big data, Deep learning); Mechatronics.
+- Programming languages: Python (Matplolib, Tensorflow, PyTorch, NumPy, SciPy, SymPy, Pandas, scikit-learn, ...), Julia, R, Fortran, Maxima, GNU Octave (Matlab), HTML, CSS. Some experience with: C++, Lisp, Go, Rust.
+- Extensive experience in GNU/Linux and servers (Debian, Fedora, Archlinux, Nextcloud, SQlite, Matrix (Synapse), networks and firewalls)
+- Utilities: Emacs (many moodes), gnuplot, zotero, git, bash, cmake, ssh, gimp, inskcape, Jupyter, LaTeX, libreoffice.
+- I do some contributions to free/open source projects. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvlobato&layout=compact&langs_count=20)](https://github.com/rvlobato/github-readme-stats)
 
